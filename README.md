@@ -1,3 +1,5 @@
+# FORKED TO INCLUDE MISSING CELLULAR BANDS AND CALCULATE FDD 5G UL FREQUENCY
+
 # LTE_NR_Frequency
 
 Convert between EARFCN and LTE frequency, NR-ARFCN and NR frequency.
